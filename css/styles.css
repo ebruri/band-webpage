@@ -1,0 +1,16 @@
+img {
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: aquamarine;
+}
+.box {
+  width: 50%;
+  border: solid black;
+  border-width: 1px;
+  background-color:rgb(233, 233, 177);
+  margin-bottom: 10px;
+}
